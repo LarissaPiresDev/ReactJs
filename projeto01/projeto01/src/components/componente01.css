@@ -1,0 +1,9 @@
+.card{
+    background-color:#333;
+    display: flex;
+}
+
+.titulo{
+    color: blueviolet;
+    
+}

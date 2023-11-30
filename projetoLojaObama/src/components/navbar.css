@@ -1,0 +1,35 @@
+.menu{
+    width: 100%;
+    float: left;
+    background-color: #111;
+    padding: 18px 8%;
+}
+.menu li{
+    float: left;
+}
+.menu li a{
+    color: #9d9d9d;
+    margin-right: 25px;
+}
+.menu li a:hover{
+    color: #fff;
+}
+
+/*SOCIAL-ICONS*/
+.social-icons{
+    float: right;
+}
+.social-icons a{
+    color: #fff;
+    float: left;
+    margin-left: 14px;
+}
+.fa-facebook:hover{
+    color:#3b5998;
+}
+.fa-x-twitter:hover{
+    color:rgb(231, 233, 234);
+}
+.fa-google:hover{
+    color:#db4437;
+}

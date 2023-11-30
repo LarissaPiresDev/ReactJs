@@ -1,0 +1,49 @@
+
+img{
+    max-width: 100%;
+  }
+  ul{
+    list-style-type: none;
+  }
+  a{
+    text-decoration: none;
+  }
+  h2{
+    font-size: 1.5em;
+    color: #333;
+  }
+  p{
+    font-size: 1em;
+    color: #777;
+  }
+
+.cabecalho{
+    width: 100%;
+    float:left;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+}
+.logo a{
+    width: 221px;
+    height: 48px;
+    float: left;
+    background: url(../img/logo.png) no-repeat;
+    font-size: 0;
+}
+.cabecalho form{
+    width: 30%;
+    float: right;
+}
+.cabecalho input[type="search"]{
+    width: 85%;
+    padding: 15px 10px;
+    border-radius: 8px 0 0 8px;
+}
+.cabecalho button{
+    width: 15%;
+    float: right;
+    padding: 15px 10px;
+    background-color: #0cae98;
+    border-radius: 0px 8px 8px 0px;
+    cursor: pointer;
+}
